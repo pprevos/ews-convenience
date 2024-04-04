@@ -1,0 +1,3 @@
+#+title: Convenience Functions for Emacs Writing Studio
+
+This repository contains a collection of convenience functions for [[https://github.com/pprevos/emacs-writing-studio][Emacs Writing Studio]].
